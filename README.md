@@ -1,4 +1,4 @@
-Live Demo at "?????".
+Live Demo at "https://arjunr3108.github.io/2-Parallax-backgrounds-with-JavaScript/".
 
 This is a Demo of Parallax Background.
 
