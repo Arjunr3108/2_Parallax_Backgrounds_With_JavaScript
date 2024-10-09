@@ -1,4 +1,4 @@
-1. Live Demo at "https://arjunr3108.github.io/2-Parallax-backgrounds-with-JavaScript/".
+1. Visit "https://arjunr3108.github.io/2-Parallax-backgrounds-with-JavaScript" to view the live demo.
 
 2. This is a demo of the Parallax Background Effect.
 
